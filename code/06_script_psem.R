@@ -29,6 +29,9 @@ data("meadows")
 #    - Think about grazing as a disturbance factor.
 
 # 3. Fit component models (e.g., lm) for each hypothesized relationship.
+# --- Libraries & data
+
+
 
 # 4. Combine models into a piecewise SEM using psem().
 
